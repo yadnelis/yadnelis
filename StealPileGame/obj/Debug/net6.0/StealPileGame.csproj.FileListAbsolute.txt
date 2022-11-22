@@ -1,0 +1,15 @@
+C:\Users\yadne\source\repos\StealPileGame\bin\Debug\net6.0\StealPileGame.exe
+C:\Users\yadne\source\repos\StealPileGame\bin\Debug\net6.0\StealPileGame.deps.json
+C:\Users\yadne\source\repos\StealPileGame\bin\Debug\net6.0\StealPileGame.runtimeconfig.json
+C:\Users\yadne\source\repos\StealPileGame\bin\Debug\net6.0\StealPileGame.dll
+C:\Users\yadne\source\repos\StealPileGame\bin\Debug\net6.0\StealPileGame.pdb
+C:\Users\yadne\source\repos\StealPileGame\obj\Debug\net6.0\StealPileGame.csproj.AssemblyReference.cache
+C:\Users\yadne\source\repos\StealPileGame\obj\Debug\net6.0\StealPileGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yadne\source\repos\StealPileGame\obj\Debug\net6.0\StealPileGame.AssemblyInfoInputs.cache
+C:\Users\yadne\source\repos\StealPileGame\obj\Debug\net6.0\StealPileGame.AssemblyInfo.cs
+C:\Users\yadne\source\repos\StealPileGame\obj\Debug\net6.0\StealPileGame.csproj.CoreCompileInputs.cache
+C:\Users\yadne\source\repos\StealPileGame\obj\Debug\net6.0\StealPileGame.dll
+C:\Users\yadne\source\repos\StealPileGame\obj\Debug\net6.0\refint\StealPileGame.dll
+C:\Users\yadne\source\repos\StealPileGame\obj\Debug\net6.0\StealPileGame.pdb
+C:\Users\yadne\source\repos\StealPileGame\obj\Debug\net6.0\StealPileGame.genruntimeconfig.cache
+C:\Users\yadne\source\repos\StealPileGame\obj\Debug\net6.0\ref\StealPileGame.dll
