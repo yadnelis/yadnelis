@@ -1,4 +1,6 @@
-`student` • `artist` • `doesn't actually know how to code`
+`student` • `artist` 
+
+Hello, I know c# (.Net 6, Entity Framework Core, Razor Pages) and I'm trying to learn c++.
 
 <!---
 yadnelis/yadnelis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
